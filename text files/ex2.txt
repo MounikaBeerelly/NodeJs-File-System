@@ -1,0 +1,1 @@
+Writing file in synchronous way. Appended content
